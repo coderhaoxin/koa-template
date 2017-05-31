@@ -1,0 +1,9 @@
+{
+  "name": "node-template",
+  "private": true,
+  "version": "1.0.0",
+  "main": "meta.json",
+  "repository": "coderhaoxin/node-template",
+  "author": "haoxin",
+  "license": "MIT"
+}
