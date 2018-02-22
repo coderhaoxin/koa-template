@@ -1,7 +1,7 @@
 
-### node-template
+### koa-template
 
-* node template for myself !
+* koa template for myself !
 
 ### License
 MIT
